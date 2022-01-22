@@ -25,6 +25,8 @@
 
 **Выполните:**
 
+cd ArraysHandler
+
 mvn package
 
 cd target
